@@ -10,7 +10,7 @@ export default function About() {
         >
             <div className="flex justify-center mb-5">
                 <img
-                    src="./img/pasfoto.jpg"
+                    src="./img/profil.jpg"
                     className="w-48 rounded border-2 border-gray-800 dark:border-white"
                 />
             </div>
