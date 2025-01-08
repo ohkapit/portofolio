@@ -4,18 +4,26 @@ import MiniCard from "./mini-card";
 export default function Skills() {
     const skillList = {
         programing: [
-            { imageUrl: "./img/skills/php.png", title: "php" },
+            { imageUrl: "./img/skills/komunikasi.png", title: "Komunikasi" },
             {
-                imageUrl: "./img/skills/javascript.png",
-                title: "javascript",
+                imageUrl: "./img/skills/percayadiri.jpg",
+                title: "Percaya Diri",
             },
             {
-                imageUrl: "./img/skills/c.png",
-                title: "c++",
+                imageUrl: "./img/skills/teamwork.jpg",
+                title: "Team Work",
+            },
+             {
+                imageUrl: "./img/skills/fleksibilitas.png",
+                title: "Fleksibilitas",
             },
             {
-                imageUrl: "./img/skills/java.png",
-                title: "java",
+                imageUrl: "./img/skills/kreatif.jpg",
+                title: "Kreatif dan Inovatif",
+            },
+            {
+                imageUrl: "./img/skills/adaptasi.png",
+                title: "Adaptasi",
             },
         ],
         framework: [
@@ -43,7 +51,7 @@ export default function Skills() {
             style={{ height: "70vh" }}
         >
             <h3 className="mb-3 text-gray-500 dark:text-gray-300">
-                [{skillList.programing.length}] Programming Languages
+                [{skillList.programing.length}] Soft Skill
             </h3>
             <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
                 {skillList.programing.map((el, index) => {
