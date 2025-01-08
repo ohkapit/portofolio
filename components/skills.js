@@ -23,7 +23,7 @@ export default function Skills() {
             },
             {
                 imageUrl: "./img/skills/adaptasi.png",
-                title: "Adaptasi",
+                title: "Adaptasii",
             },
         ],
         framework: [
