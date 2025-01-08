@@ -39,9 +39,9 @@ export default function Sidebar({
                     className="w-1/3 rounded-full mb-4 border-2 border-gray-400 dark:border-white"
                 />
                 <h1 className="text-xl font-bold text-center">
-                    Tajul Arifin Sirajudin
+                    Kafit Mustofa
                 </h1>
-                <p>Web Developer</p>
+                <p>Digital Marketing | Content Creator | Social Media Specialist | </p>
                 <div className="text-center mt-5 w-full py-2 border-t-2">
                     <ul>
                         <li>
