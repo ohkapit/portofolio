@@ -23,7 +23,7 @@ export default function About() {
                 About Me
             </div>
             <p className="leading-relaxed text-gray-700 dark:text-gray-300">
-                Hello, my name is Tajul Arifin Sirajudin. I am a Full Stack Web
+                Hello, my name is Kafit Mustofa. I am a Full Stack Web
                 Developer, very interested in programming. I started programming
                 since April, 2017. I have experience in creating several
                 websites, such as monitoring, digital wallet, and online
