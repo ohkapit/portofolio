@@ -23,7 +23,11 @@ export default function About() {
                 About Me
             </div>
             <p className="leading-relaxed text-gray-700 dark:text-gray-300">
-               Halo, nama saya Kafit Mustofa.Lulusan S1-Teknik Informatika yang menyukai dunia digital. saya memiliki pengalaman sebagai Social Media Specialist,Content Creator dan Digital Marketing. Rasanya luar biasa melihat diri saya berkembang, dan saya berharap dapat terus berkembang dan menjadi lebih baik dari sekarang.
+               Halo, nama saya Kafit Mustofa.Lulusan S1-Teknik Informatika 
+                yang menyukai dunia digital. saya memiliki pengalaman sebagai 
+                Social Media Specialist,Content Creator dan Digital arketing. 
+                Rasanya luar biasa melihat diri saya berkembang, dan saya berharap 
+                dapat terus berkembang dan menjadi lebih baik dari sekarang.
             </p>
         </div>
     );
