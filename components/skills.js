@@ -35,10 +35,15 @@ export default function Skills() {
             { imageUrl: "./img/skills/mr.png", title: "market research" },
         ],
         others: [
-            { imageUrl: "./img/skills/git.png", title: "git" },
-            { imageUrl: "./img/skills/vs.png", title: "vs code" },
-            { imageUrl: "./img/skills/netlify.png", title: "netlify" },
-            { imageUrl: "./img/skills/mysql.png", title: "mysql" },
+            { imageUrl: "./img/skills/word.png", title: "Microsoft word" },
+            { imageUrl: "./img/skills/excel.png", title: "Microsoft excel" },
+            { imageUrl: "./img/skills/ppt.png", title: "Microsoft power point" },
+            { imageUrl: "./img/skills/ps.png", title: "photoshop" },
+             { imageUrl: "./img/skills/pre.png", title: "premiere pro" },
+            { imageUrl: "./img/skills/capcut.jpg", title: "capcut" },
+            { imageUrl: "./img/skills/gt.png", title: "google trends" },
+            { imageUrl: "./img/skills/meta.png", title: "meta bussines suite" },
+             { imageUrl: "./img/skills/tiktok.png", title: "tiktok creative center" },
         ],
     };
 
@@ -76,7 +81,7 @@ export default function Skills() {
                 })}
             </div>
             <h3 className="mb-3 text-gray-500 mt-10 dark:text-gray-300">
-                [{skillList.others.length}] Others
+                [{skillList.others.length}] Software
             </h3>
             <div className="grid rid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
                 {skillList.others.map((el, idx) => {
