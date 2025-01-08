@@ -41,7 +41,7 @@ export default function Sidebar({
                 <h1 className="text-xl font-bold text-center">
                     Kafit Mustofa
                 </h1>
-                <p>Digital Marketing | Content Creator | Social Media Specialist | </p>
+                <p>Digital Marketing | Content Creator | Social Media Specialist | Copy Writing </p>
                 <div className="text-center mt-5 w-full py-2 border-t-2">
                     <ul>
                         <li>
