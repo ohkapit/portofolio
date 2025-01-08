@@ -23,13 +23,7 @@ export default function About() {
                 About Me
             </div>
             <p className="leading-relaxed text-gray-700 dark:text-gray-300">
-                Halo, my name is Kafit Mustofa. I am a Full Stack Web
-                Digital Marketing, very interested in programming. I started programming
-                since April, 2017. I have experience in creating several
-                websites, such as monitoring, digital wallet, and online
-                shopping. Worked with many libraries & frameworks like ReactJS,
-                Codeigniter, Laravel, etc. It does feel amazing to see myself
-                improving, Hoping to continue to improve and be better than now.
+               Halo, nama saya Kafit Mustofa.Lulusan S1-Teknik Informatika yang menyukai dunia digital. saya memiliki pengalaman sebagai Social Media Specialist,Content Creator dan Digital Marketing. Rasanya luar biasa melihat diri saya berkembang, dan saya berharap dapat terus berkembang dan menjadi lebih baik dari sekarang.
             </p>
         </div>
     );
