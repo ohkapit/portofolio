@@ -27,15 +27,12 @@ export default function Skills() {
             },
         ],
         framework: [
-            { imageUrl: "./img/skills/ci.png", title: "codeigniter" },
-            { imageUrl: "./img/skills/laravel.png", title: "laravel" },
-            { imageUrl: "./img/skills/jquery.png", title: "jquery" },
-            { imageUrl: "./img/skills/react.png", title: "reactjs" },
-            { imageUrl: "./img/skills/next.png", title: "nextjs" },
-            { imageUrl: "./img/skills/bootstrap.png", title: "bootstrap" },
-            { imageUrl: "./img/skills/tailwind.png", title: "tailwind" },
-            { imageUrl: "./img/skills/antd.svg", title: "antd" },
-            { imageUrl: "./img/skills/axios.png", title: "axios" },
+            { imageUrl: "./img/skills/dm.jpg", title: "digital marketing" },
+            { imageUrl: "./img/skills/cp.png", title: "content planning" },
+            { imageUrl: "./img/skills/smm.png", title: "social media management" },
+            { imageUrl: "./img/skills/da.png", title: "data analis" },
+            { imageUrl: "./img/skills/cw.png", title: "copy writing" },
+            { imageUrl: "./img/skills/mr.png", title: "market research" },
         ],
         others: [
             { imageUrl: "./img/skills/git.png", title: "git" },
@@ -65,7 +62,7 @@ export default function Skills() {
                 })}
             </div>
             <h3 className="mb-3 text-gray-500 mt-10 dark:text-gray-300">
-                [{skillList.framework.length}] Libraries/Frameworks
+                [{skillList.framework.length}] Hard Skill
             </h3>
             <div className="grid rid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
                 {skillList.framework.map((el, idx) => {
