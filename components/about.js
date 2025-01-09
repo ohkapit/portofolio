@@ -23,7 +23,7 @@ export default function About() {
                 About Me
             </div>
             <p className="leading-relaxed text-gray-700 dark:text-gray-300">
-               Hallo, nama saya Kafit Mustofa.Lulusan S1-Teknik Informatika 
+               Halo, nama saya Kafit Mustofa.Lulusan S1-Teknik Informatika 
                 yang menyukai dunia digital. saya memiliki pengalaman sebagai 
                 Social Media Specialist,Content Creator dan Digital arketing. 
                 Rasanya luar biasa melihat diri saya berkembang, dan saya berharap 
