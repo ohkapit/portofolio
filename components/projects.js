@@ -6,7 +6,7 @@ export default function Projects() {
         public: [
             {
                 imageUrl: "./img/projects/sipak.PNG",
-                title: "Si Pak Komputer",
+                title: "Si Pak Si pak jeder",
                 url: "",
                 github: "https://github.com/arifintajul4/si-pak",
                 desc: "Website untuk melakukan konsultasi kerusakan komputer, dengan menjawab beberapa pertanyaan terkait gejala kerusakan komputer yang dialami. sistem akan memberikan diagnosis berdasarkan pengetahuan pakar yang telah diinput sebelumnya",
