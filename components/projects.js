@@ -48,20 +48,7 @@ export default function Projects() {
                 github: "",
                 desc: "Adalah website untuk melakukan reservasi atau pemesan kamar wisma secara online, tanpa harus ada di tempat terlebih dahulu",
             },
-            {
-                imageUrl: "./img/projects/ra.PNG",
-                title: "Ra Ibadurrahman Web",
-                url: "",
-                github: "",
-                desc: "adalah wesbite untuk membantu Ra Ibadurrah mengelola data keuangan siswa",
-            },
-            {
-                imageUrl: "./img/projects/app-gis.PNG",
-                title: "App GIS",
-                url: "",
-                github: "",
-                desc: "adalah website untuk melihat daftar tempat sesuai dengan zona wilayah",
-            },
+            
         ],
     };
     return (
