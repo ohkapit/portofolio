@@ -20,7 +20,7 @@ export default function About() {
                     style={{ maxWidth: "1.33em" }}
                     icon={faInfoCircle}
                 />
-                About Me
+                About Kafit
             </div>
             <p className="leading-relaxed text-gray-700 dark:text-gray-300">
                Halowww, nama saya Kafit Mustofa.Lulusan S1-Sarjana Komputer
