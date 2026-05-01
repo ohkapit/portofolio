@@ -23,7 +23,7 @@ export default function About() {
                 About Kafit
             </div>
             <p className="leading-relaxed text-gray-700 dark:text-gray-300">
-               Halowww, nama saya Kafit Mustofa.Lulusan S1-Sarjana Komputer
+               Haellllow, nama saya Davit Mustofa.Lulusan S2 -Sarjana Komputer
                 yang menyukai dunia digital. saya memiliki pengalaman sebagai 
                 Social Media Specialist,Content Creator dan Digital arketing. 
                 Rasanya luar biasa melihat diri saya berkembang, dan saya berharap 
